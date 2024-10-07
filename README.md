@@ -23,8 +23,8 @@ A simple command-line application to manage and play your favorite songs using a
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/mlcrf/TerminalPlayer
+   cd https://github.com/mlcrf/TerminalPlayer
 2. Install dependencies:
    ```bash
    pip install spotipy
@@ -78,9 +78,4 @@ To integrate the application with your Spotify account, you'll need to provide y
      SPOTIPY_CLIENT_SECRET=your_client_secret_here
      SPOTIPY_REDIRECT_URI=your_redirect_uri_here
      ```
-
-6. **Install the Python Dotenv Package (if using .env):**
-   If you created a `.env` file, ensure you have the `python-dotenv` package installed to load environment variables from the file. You can install it using:
-   ```bash
-   pip install python-dotenv
 
