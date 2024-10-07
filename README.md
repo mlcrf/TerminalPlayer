@@ -16,7 +16,7 @@ A simple command-line application to manage and play your favorite songs using a
 ## Requirements
 
 - Python 3.x
-- External libraries (ensure you have `LinkedLists` and `spotifyRequests` modules properly set up).
+- Spotipy and Dotenv
 - Spotify Premium Account
 
 ## Setup
