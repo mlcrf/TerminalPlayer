@@ -17,6 +17,7 @@ A simple command-line application to manage and play your favorite songs using a
 
 - Python 3.x
 - External libraries (ensure you have `LinkedLists` and `spotifyRequests` modules properly set up).
+- Spotify Premium Account
 
 ## Setup
 
@@ -25,6 +26,7 @@ A simple command-line application to manage and play your favorite songs using a
    git clone <repository-url>
    cd <repository-directory>
 2. Install dependencies: Make sure you have all required dependencies installed. If you have any specific libraries, list them here.
+3. Open a Spotify tab on your computer, or phone, on the same account you logged in with in the credentials.env file.
 
 ## Usage
 - play: Start playing the playlist.
