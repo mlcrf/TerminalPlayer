@@ -25,8 +25,11 @@ A simple command-line application to manage and play your favorite songs using a
    ```bash
    git clone <repository-url>
    cd <repository-directory>
-2. Install dependencies: Make sure you have all required dependencies installed. If you have any specific libraries, list them here.
-3. Open a Spotify tab on your computer, or phone, on the same account you logged in with in the credentials.env file.
+2. Install dependencies:
+   ```bash
+   pip install spotipy
+   pip install dotenv
+4. Open a Spotify tab on your computer, or phone, on the same account you logged in with in the credentials.env file.
 
 ## Usage
 - play: Start playing the playlist.
