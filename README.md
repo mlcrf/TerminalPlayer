@@ -2,6 +2,9 @@
 
 A simple command-line application to manage and play your favorite songs using a linked list structure. The application integrates with Spotify to search for tracks and control playback.
 
+![image](https://github.com/user-attachments/assets/cffd4a0b-8acd-4099-8ada-f93c8de105d0)
+
+
 ## Features
 
 - **Play and Pause:** Start and pause playback of songs.
